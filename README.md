@@ -17,7 +17,7 @@ This project includes an agent–based SIR model to simulate the transmission of
  
   
  #### SITUATION-1 : With all constraints like mask wearing,social distancing,sanitary hygiene etc. 
- ![](city_1_with_constraints.png)
+ ![](city_2_with_constraints.png)
  #### SITUATION-2 : Without any constraints 
  ![](city_1_without_constraints.png)
  
